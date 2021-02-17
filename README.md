@@ -17,7 +17,7 @@ call of duty Warzone, C# .net and self improvement.
 -lefela@ngpm.co.za
 -rakgew@gmail.com
 +27783754146
-http://twitter/lefelaR
+https://twitter.com/r_lefela
 
 <!---
 lefelaR/lefelaR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
