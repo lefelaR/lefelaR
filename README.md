@@ -12,7 +12,7 @@ call of duty Warzone, C# .net and self improvement.
 
 - 💞️ I’m looking to collaborate on ...
 
-## conatats 
+## contacts 
 - 📫 How to reach me ...
 -lefela@ngpm.co.za
 -rakgew@gmail.com
