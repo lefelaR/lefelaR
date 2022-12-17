@@ -5,7 +5,7 @@
 
 ## Interests
 - 👀 I’m interested in ...
-call of duty Warzone, C# .net and self improvement.
+call of duty Warzone, C# .net, Typescript, React, python and AWS and self improvement.
 
 - 🌱 I’m currently learning ...
 
@@ -14,7 +14,7 @@ call of duty Warzone, C# .net and self improvement.
 
 ## contacts 
 - 📫 How to reach me ...
--lefela@ngpm.co.za
+-lefela@rakheoana.co.za
 -rakgew@gmail.com
 +27783754146
 https://twitter.com/r_lefela
