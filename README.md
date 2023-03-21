@@ -5,7 +5,7 @@
 
 ## Interests
 - 👀 I’m interested in ...
-call of duty Warzone, C# .net, Typescript, React, python and AWS and self improvement.
+C# .net, Typescript, React, python and AWS and self improvement.
 
 - 🌱 I’m currently learning ...
 
