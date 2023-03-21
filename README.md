@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lefelaR, full name Rakheoana Elisha Lefela.
 
-## i currently live in capetown south africa working remotely as a web stack developer, and enjoying a simple daily workout
+## I live in capetown south africa & working remotely as a web stack developer, and enjoying a simple daily workout
 ## routine
 
 ## Interests
